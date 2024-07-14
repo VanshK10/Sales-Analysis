@@ -12,7 +12,7 @@ This project is an analysis of sales of an online store to check the most popula
 ### **CODE**: Contains Jupyter notebooks for data cleaning, feature engineering, RFM analysis, and ML modeling.
   - `data_cleaning_and_feature_engineering.ipynb`: Data cleaning and feature engineering steps
   - `rfm_analysis.ipynb`: RFM analysis and customer segmentation
-   -`ml_modeling.ipynb`: Machine learning model training and evaluation.
+  - `ml_modeling.ipynb`: Machine learning model training and evaluation.
 ### **VISUALISATION**: Contains the Tableau workbook for visualizations.
   - `TableauWorkbook.twbx`: Tableau workbook with visualizations
 
